@@ -1,4 +1,4 @@
-// Wite dart program to create square shape with steric(*)
+// Write dart program to create square shape with steric(*)
 void main(){
   print("*************");
   print("*           *");
