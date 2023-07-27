@@ -9,5 +9,6 @@ var num1=10,num2=30,temp;
   print(num1);
   print(num2);
 }
-
+	
+int, double, num, BigInt,String,bool,List,Map  are Data Types in Dart Language
   
