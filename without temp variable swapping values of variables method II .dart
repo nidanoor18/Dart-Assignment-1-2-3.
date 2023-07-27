@@ -1,3 +1,4 @@
+//Swapping without using temp variable 
 void main(){
   //Before Swapping values of varaibles
 var num1=32,num2=30;
