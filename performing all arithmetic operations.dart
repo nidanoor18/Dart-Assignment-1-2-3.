@@ -1,4 +1,7 @@
 //Write a program to perform all arithmetic operations.
+//float Data Type is not used in Dart Language
+//int, double, num, BigInt,String,List,Map,bool are Data Types in Dart Language
+
 void main(){
  double num1,num2,result;
   num1=10.6;
