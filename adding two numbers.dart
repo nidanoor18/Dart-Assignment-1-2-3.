@@ -6,5 +6,4 @@ void main()
  num2=70;
  int result =num1+ num2;
  print(result);
-
 }
