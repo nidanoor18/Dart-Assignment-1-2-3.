@@ -1,6 +1,6 @@
 void main(){
   //Before Swapping values of varaibles
-var num1=10,num2=30,temp;
+var num1=10,num2=30;
   num1=num1+num2;
   num2=num1-num2;
   num1=num1-num2;
